@@ -1,0 +1,14 @@
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\bin\Debug\Regresion.exe.config
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\bin\Debug\Regresion.exe
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\bin\Debug\Regresion.pdb
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\bin\Debug\Jace.dll
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\bin\Debug\MyBackPack.dll
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\bin\Debug\UnityEngine.dll
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\bin\Debug\MyBackPack.pdb
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\bin\Debug\UnityEngine.xml
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\obj\Debug\Regresion.csprojResolveAssemblyReference.cache
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\obj\Debug\Regresion.Form1.resources
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\obj\Debug\Regresion.Properties.Resources.resources
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\obj\Debug\Regresion.csproj.GenerateResource.Cache
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\obj\Debug\Regresion.exe
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Regresion\Regresion\obj\Debug\Regresion.pdb
